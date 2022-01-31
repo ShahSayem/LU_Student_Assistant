@@ -22,10 +22,15 @@ TEAM MEMBER:
   
   
 ● Login / Registration page: create this by using string, file and structure
+
 ● Semester Registration: use string, file, structure
+
 ● Accomodation: By using string, structure
+
 ● Todo List: create this by using string, structure
+
 ● My Profile: use string, file, structure 
+
 
 2. Ahmad Mihda Chowdhury
 
@@ -33,6 +38,7 @@ Features -
 
 
 ● Result: if-else, string used
+
 ● Library: By using if-else 
 
 3. Md Kamran Hussen
@@ -41,5 +47,7 @@ Features -
 
 
 ● Student Information: if-else used
+
 ● Class Routine: By using if-else, string
+
 ● Bus Schedule: if-else used
