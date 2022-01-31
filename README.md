@@ -13,18 +13,18 @@ routine and Bus schedule in our system respectively from the Class routine featu
 feature. Users can also see their profiles in the My Profile feature.
 Team member:
 1. Shah Sayem Ahmad, Team leader, Email: shahsayemahmad@gmail.com
-I worked on these features -
+  I worked on these features -
 ● Login / Registration page: create this by using string, file and structure
 ● Semester Registration: use string, file, structure
 ● Accomodation: By using string, structure
 ● Todo List: create this by using string, structure
-● My Profile: use string, file, structure
+● My Profile: use string, file, structure 
 
-3. Ahmad Mihda Chowdhury
+2. Ahmad Mihda Chowdhury
 ● Result: if-else, string used
-● Library: By using if-else
+● Library: By using if-else 
 
-5.  Md Kamran Hussen
+3. Md Kamran Hussen
 ● Student Information: if-else used
 ● Class Routine: By using if-else, string
 ● Bus Schedule: if-else used
