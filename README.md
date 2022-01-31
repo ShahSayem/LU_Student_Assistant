@@ -19,6 +19,8 @@ TEAM MEMBER:
 
 
   I worked on these features -
+  
+  
 ● Login / Registration page: create this by using string, file and structure
 ● Semester Registration: use string, file, structure
 ● Accomodation: By using string, structure
