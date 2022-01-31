@@ -51,3 +51,20 @@ Features -
 ● Class Routine: By using if-else, string
 
 ● Bus Schedule: if-else used
+
+
+
+Tools:
+
+
+Programming Language: C/C++
+
+
+Code Editor / IDE : Visual Studio Code, Codeblocks
+
+
+C/C++ Topics :
+
+
+String, Structure, File, goto function, Function, Control statement, 
+fflush(stdin) function etc.
