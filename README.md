@@ -13,7 +13,8 @@ routine and Bus schedule in our system respectively from the Class routine featu
 feature. Users can also see their profiles in the My Profile feature.
 
 
-Team member:
+TEAM MEMBER:
+
 1. Shah Sayem Ahmad, Team leader, Email: shahsayemahmad@gmail.com
   I worked on these features -
 ● Login / Registration page: create this by using string, file and structure
