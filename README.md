@@ -28,10 +28,18 @@ TEAM MEMBER:
 ● My Profile: use string, file, structure 
 
 2. Ahmad Mihda Chowdhury
+
+Features -
+
+
 ● Result: if-else, string used
 ● Library: By using if-else 
 
 3. Md Kamran Hussen
+
+Features -
+
+
 ● Student Information: if-else used
 ● Class Routine: By using if-else, string
 ● Bus Schedule: if-else used
