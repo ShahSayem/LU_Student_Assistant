@@ -11,3 +11,20 @@ submit a library membership request and can see the available books right now. S
 student’s information by entering their ID in the Student Information feature. Users also can check Class
 routine and Bus schedule in our system respectively from the Class routine feature and Bus schedule
 feature. Users can also see their profiles in the My Profile feature.
+Team member:
+1. Shah Sayem Ahmad, Team leader, Email: shahsayemahmad@gmail.com
+I worked on these features -
+● Login / Registration page: create this by using string, file and structure
+● Semester Registration: use string, file, structure
+● Accomodation: By using string, structure
+● Todo List: create this by using string, structure
+● My Profile: use string, file, structure
+
+3. Ahmad Mihda Chowdhury
+● Result: if-else, string used
+● Library: By using if-else
+
+5.  Md Kamran Hussen
+● Student Information: if-else used
+● Class Routine: By using if-else, string
+● Bus Schedule: if-else used
