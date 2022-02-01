@@ -39,6 +39,10 @@ void pro_name()
     {
         cout<<"*";
     }
+    
+    cout<<endl<<endl<<"Date: "<<__DATE__<<endl;
+    cout<<"Time: "<<__TIME__;
+    
     cout<<endl<<endl;
 }
 
