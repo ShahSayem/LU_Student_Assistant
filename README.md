@@ -1,4 +1,9 @@
-# LU_Student_Assistant
+# LU Student Assistant
+
+
+_In the latest version release v1.02,_ **we add time and date in our system.**
+
+
 It is a C / C++ project made by team: return 0. It is very hard for students to manage their regular study, tasks and updates etc. LU Student Assistant is a
 console based program written in C/C++ language. It has a To-do list feature to handle this problem.
 Here, Users can write, edit and see their to-do lists.People like me from outside of Sylhet also get a lot of
